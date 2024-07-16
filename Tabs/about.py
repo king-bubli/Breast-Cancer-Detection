@@ -13,15 +13,15 @@ def app():
 
 ---
 
-## **Name:** *Srijata Chanda*
+## **Name:** *Kingshuk Das*
                 
                              
 ### **Bio**
 As a senior-year student pursuing my B.Tech degree in Artificial Intelligence and Machine Learning at Narula Institute of Technology, I’m deeply passionate about creating innovative solutions in the AI field. Looking ahead, I’m excited to contribute to cutting-edge developments and explore new frontiers. If you share this enthusiasm or need any assistance, feel free to connect - I’m always up for an AI chat! 😊
 
-## **LinkedIn:** [srijata-chanda](https://www.linkedin.com/in/srijata-chanda/)
+## **LinkedIn:** [king-das](https://www.linkedin.com/in/king-das/)
 
-## **Github:** [bubli-c](https://github.com/bubli-c)
+## **Github:** [king-bubli](https://github.com/king-bubli)
 
-## **Email:** [srijatachanda195@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=srijatachanda195@gmail.com.com&tf=cm)""")
+## **Email:** [king.das9674@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=king.das9674@gmail.com.com&tf=cm)""")
     
