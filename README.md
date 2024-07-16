@@ -1,4 +1,6 @@
-<p><img src = ""></p>
+# Breast Cancer Predictor
+
+<p><img src = "https://github.com/bubli-c/Breast-Cancer-Detection/blob/main/home.png"></p>
 
 ## Table of Contents
 - [About](#about-the-project)
